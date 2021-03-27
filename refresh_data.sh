@@ -1,2 +1,2 @@
 #!/bin/bash
-wget https://oag.ca.gov/firearms/certified-handguns/search
+wget -O search.html https://oag.ca.gov/firearms/certified-handguns/search
