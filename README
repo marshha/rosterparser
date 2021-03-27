@@ -1,3 +1,4 @@
 From this directory, run generate_db.sh .
 
-A sqlite3 database "roster.db" will be generated.
+A sqlite3 database "roster.db" will be generated. This file
+contains a single table ca_roster.

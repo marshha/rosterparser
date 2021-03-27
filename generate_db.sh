@@ -1,3 +1,3 @@
 #!/bin/bash
 bash refresh_data.sh
-python3 load.py search.html roster.db
+python3 create.py search.html roster.db
